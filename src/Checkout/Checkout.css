@@ -1,0 +1,24 @@
+.checkout {
+    display: flex;
+    background-color: white;
+    height: max-content;
+    margin: 30px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout_title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+
+.checkout_right {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
