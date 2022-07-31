@@ -1,5 +1,5 @@
 # React add to cart project
-The application let users shop for items and add add them to the cart
+E-shop application allow users to shop for items and add them to the cart
 
 ### Tools used:
 React Js
